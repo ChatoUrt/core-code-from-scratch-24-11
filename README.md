@@ -3,7 +3,7 @@ Ejercicios del día Jueves 24/11/22
 
 ## ---Ejercicio par impar---
 
-  - "Por favor ingrese un número"
+  - "Por favor ingrese un número."
   - Num
   
   - if Num es par then: "El número que ingresó es par"
