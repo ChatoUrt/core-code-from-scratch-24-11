@@ -3,24 +3,24 @@ Ejercicios del día Jueves 24/11/22
 
 ## ---Ejercicio par impar---
 
-  "Por favor ingrese un número"
-  Num
+  - "Por favor ingrese un número"
+  - Num
   
-  if Num es par then: "El número que ingresó es par"
-  If Num es impar then "El número que ingresó es impar"
+  - if Num es par then: "El número que ingresó es par"
+  - If Num es impar then "El número que ingresó es impar"
 
 https://lucid.app/lucidspark/1a1cf49d-0fe7-40c3-9db0-b6d16e4b8136/edit?invitationId=inv_d6088b62-35f1-494d-abd7-df12a22ee749
 
 ---
 ## ---Ejercicio de la edad---
 
-  Inicio
-  "Por favor escriba su fecha de nacimiento"
-  DOB
-  "Por favor ingrese el año actual"
-  Year
-  Edad = Year - DOB
-  "Su edad es:" -Edad-
+  - Inicio
+  - "Por favor escriba su fecha de nacimiento"
+  - DOB
+  - "Por favor ingrese el año actual"
+  - Year
+  - Edad = Year - DOB
+  - "Su edad es:" -Edad-
 
 ---
 ## ---Respuesta del tesoro---
